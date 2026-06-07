@@ -48,7 +48,7 @@ docente_1 = Docente(
     materias=["Álgebra — 8° grado", "Geometría — 9° grado", "Precálculo — 10° grado"],
 )
 docente_2 = Docente(
-    "Prof. Rodríguez", "Historia", "Colegio Dolores Sucre", 5,
+    "Prof. Morejon", "Historia", "Colegio Dolores Sucre", 5,
     materias=["Historia Universal — 10° grado", "Historia de América — 11° grado"],
 )
 
